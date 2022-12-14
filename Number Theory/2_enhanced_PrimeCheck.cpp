@@ -9,9 +9,7 @@ typedef long long ll;
             Example:    if 2 divides 16, then (16/2 = 8) also divides 16
         So the point is factors always comes in pair.
 
-    2.  Now think, what should be the range for checking primality?  
- 
-*/
+    2.  Now think, what should be the range for check*/
 bool enhancedPrimeCheck(int n)
 {
     // writing condition (i*i <= n) is better than writing
