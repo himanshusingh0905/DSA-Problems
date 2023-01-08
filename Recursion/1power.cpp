@@ -1,4 +1,4 @@
-// Find a raised to power n using recursive approch:
+// Find  (a raised to power n ) using recursive approch:
 // Recall :  1. First write base condition.
 //           2. Think if small problem is already been solved. Hence 
 //              answer of a^(n-1) you already have.
